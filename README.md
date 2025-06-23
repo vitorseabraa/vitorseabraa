@@ -12,6 +12,8 @@
 ![Java](https://skillicons.dev/icons?i=java)
 ![Lua](https://skillicons.dev/icons?i=lua)
 ![Python](https://skillicons.dev/icons?i=python)
+![Html](https://skillicons.dev/icons?i=html)
+![Css](https://skillicons.dev/icons?i=css)
 
 ---
 

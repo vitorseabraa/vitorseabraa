@@ -68,12 +68,18 @@ I am the **Founder of Kodrex Hub**, a private technology company focused on crea
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fwckbr&show_icons=true&theme=dark&hide_border=true&hide_title=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fwckbr&layout=compact&theme=dark&hide_border=true" />
+  <a href="https://github.com/fwckbr">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=fwckbr&show_icons=true&theme=dark&hide_border=true&hide_title=true" />
+  </a>
+  <a href="https://github.com/fwckbr">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=fwckbr&layout=compact&theme=dark&hide_border=true" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=fwckbr&theme=dark&hide_border=true" />
+  <a href="https://github.com/fwckbr">
+    <img src="https://streak-stats.demolab.com?user=fwckbr&theme=dark&hide_border=true" />
+  </a>
 </p>
 
 ---
